@@ -27,5 +27,8 @@ def load_json():
             new_quotes.save()
 
 
+def unload_json():
+    pass
+
 if __name__ == "__main__":
     load_json()
